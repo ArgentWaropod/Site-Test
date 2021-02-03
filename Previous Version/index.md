@@ -13,9 +13,9 @@ My name is Ryan Black. I'm an ameture game developer who has a passion for tryin
 ## Games
 
 | Game                  | Description                         | Link  |
-|:----------------------|:------------------------------------|:------|
-| Don't Jurassic up     | Dinosaur Park Builder               | nice  |
-| Undesirables          | 2D Boss Fight                       | nice  |
-| Challenge of the Hydra| VR Monster fight                    | hmm   |
+|:------------|:------------------------------------|:------|
+| Don't Jurassic up      | Dinosaur Park Builder               | [Link](./Jurassic.html)  |
+| Undesirables           | 2D Boss Fight                       | [Link](./Undesirables.html)  |
+| Challenge of the Hydra | VR Monster fight                    | [Link](./Hydra.html)   |
 
-## 
+## Animation
